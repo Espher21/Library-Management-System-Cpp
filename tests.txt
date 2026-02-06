@@ -1,0 +1,9 @@
+ONLINE LIBRARY MANAGEMENT SYSTEM TEST CASES
+
+POSITIVE TESTS
+- Add book → Pass
+- Search existing book → Pass
+
+NEGATIVE TESTS
+- Search non-existing book → Fail (Expected)
+- Borrow unavailable book → Fail (Expected)
